@@ -1,4 +1,4 @@
-### 💻 GitHub Stats
+### 💻 Nguyen Van Minh's GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanminh281005&theme=tokyonight" alt="GitHub Summary" />
@@ -9,13 +9,3 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 📌 About Me
-
-- 🎓 Student at **UIT - VNUHCM**
-- 📍 Vietnam
-- 🚀 Passionate about web dev, AI, and clean code
-- 💬 Ask me about: React, Python, Flask, or anything nerdy
-- ✨ Fun fact: I believe `debugging` is a form of meditation 🙃
