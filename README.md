@@ -1,50 +1,14 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenvanminh281005&style=flat-square&color=blue" alt="profile views"/>
+<div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="/cnmeow/cnmeow" class="no-underline Link--primary">cnmeow</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
+
+    </div>
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bc11a3e3433f8df456fd5331379062bbec97fdfa8c0ab20b2c9f965b6233028/68747470733a2f2f6769746875622d726561646d652d73746174732d6271687a2e76657263656c2e6170702f6170693f757365726e616d653d636e6d656f772673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d64726163756c6126636f756e745f707269766174653d74727565"><img height="197" src="https://camo.githubusercontent.com/4bc11a3e3433f8df456fd5331379062bbec97fdfa8c0ab20b2c9f965b6233028/68747470733a2f2f6769746875622d726561646d652d73746174732d6271687a2e76657263656c2e6170702f6170693f757365726e616d653d636e6d656f772673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d64726163756c6126636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-bqhz.vercel.app/api?username=cnmeow&amp;show_icons=true&amp;hide_border=true&amp;theme=dracula&amp;count_private=true" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b28d6622bddd9952ff81a20069a3052d99f338b8b878e33f4c8f615f33f10da4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636e6d656f772673697a655f7765696768743d302e3126636f756e745f7765696768743d302e3926686964655f626f726465723d74727565266c61796f75743d636f6d70616374267468656d653d64726163756c61266c616e67735f636f756e743d3130"><img height="197" src="https://camo.githubusercontent.com/b28d6622bddd9952ff81a20069a3052d99f338b8b878e33f4c8f615f33f10da4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636e6d656f772673697a655f7765696768743d302e3126636f756e745f7765696768743d302e3926686964655f626f726465723d74727565266c61796f75743d636f6d70616374267468656d653d64726163756c61266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnmeow&amp;size_weight=0.1&amp;count_weight=0.9&amp;hide_border=true&amp;layout=compact&amp;theme=dracula&amp;langs_count=10" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2dedb9d282594e91996c74d3d8f86680c8ddd1c615b58ae4cba03d37bc909d1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d636e6d656f7726686964655f626f726465723d74727565267468656d653d64726163756c6126626f726465725f7261646975733d3526646174655f666f726d61743d4d2532306a25354225324325323059253544"><img height="310" src="https://camo.githubusercontent.com/d2dedb9d282594e91996c74d3d8f86680c8ddd1c615b58ae4cba03d37bc909d1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d636e6d656f7726686964655f626f726465723d74727565267468656d653d64726163756c6126626f726465725f7261646975733d3526646174655f666f726d61743d4d2532306a25354225324325323059253544" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=cnmeow&amp;hide_border=true&amp;theme=dracula&amp;border_radius=5&amp;date_format=M%20j%5B%2C%20Y%5D" style="max-width: 100%;"></a>
 </p>
-
-<h2 align="center" style="color:#ff66b3;">Nguyen Van Minh</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>⭐ <strong>Total Stars Earned:</strong> 40</li>
-        <li>🔁 <strong>Total Commits (2025):</strong> 49</li>
-        <li>🔧 <strong>Total PRs:</strong> 10</li>
-        <li>🐞 <strong>Total Issues:</strong> 0</li>
-        <li>🌍 <strong>Contributed to (last year):</strong> 3</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Grade-A%2B-ff66b3?style=for-the-badge&logo=github" alt="A+ badge"/>
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 style="color:#ff66b3;">Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-      <br>
-      <sub style="color:gray;">CSS, HTML, Python, Jupyter, C++, JS, PHP</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h2 style="color:#ff66b3;">708</h2>
-      <p>Total Contributions</p>
-      <p><sub>Nov 4, 2020 - Present</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanminh281005&theme=tokyonight&hide_border=true&currStreakLabel=00FFFF&sideLabels=ff66b3&currStreakNum=ff66b3&fire=ff66b3" alt="GitHub Streak"/>
-      <p style="color:#00FFFF;">Current Streak: 0</p>
-      <p><sub>Apr 11</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <h2 style="color:#ff66b3;">7</h2>
-      <p>Longest Streak</p>
-      <p><sub>Apr 18, 2023 - Apr 24, 2023</sub></p>
-    </td>
-  </tr>
-</table>
+</article>
+  </div>
