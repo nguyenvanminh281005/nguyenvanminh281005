@@ -1,6 +1,6 @@
 <h2 align="center">Nguyen Van Minh</h2>
 <p align="center">
-  <em>code hay ko = hay code 👍🏼</em>
+  <em>khó nha bro</em>
 </p>
 
 <p align="center">
