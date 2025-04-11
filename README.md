@@ -1,8 +1,3 @@
-<h2 align="center">Nguyen Van Minh</h2>
-<p align="center">
-  <em>code hay ko = hay code 👍🏼</em>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenvanminh281005&label=Profile+Views&color=0e75b6&style=flat" alt="nguyenvanminh281005" />
 </p>
