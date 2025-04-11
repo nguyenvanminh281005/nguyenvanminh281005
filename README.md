@@ -1,63 +1,111 @@
-<div align="center">
-  
-# 👨‍💻 Nguyen Van Minh
-
-[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyenvanminh281005.github.io)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nguyenvanminh281005)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvanminh281005@example.com)
-
-> *"Khó nha bro"*
-
-</div>
-
-## 📊 GitHub Analytics
+# Nguyen Van Minh's GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanminh281005&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenvanminh281005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanminh281005&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
+
+<h2 style="color:#ff6b95">📊 GitHub Stats</h2>
+
+<img src="https://img.shields.io/badge/Total_Stars-40-2ea8ff?style=for-the-badge&labelColor=1c1d29"/>
+<img src="https://img.shields.io/badge/Total_Commits_(2025)-49-2ea8ff?style=for-the-badge&labelColor=1c1d29"/>
+<img src="https://img.shields.io/badge/Total_PRs-10-2ea8ff?style=for-the-badge&labelColor=1c1d29"/>
+<img src="https://img.shields.io/badge/Total_Issues-0-2ea8ff?style=for-the-badge&labelColor=1c1d29"/>
+<img src="https://img.shields.io/badge/Contributed_to_(last_year)-3-2ea8ff?style=for-the-badge&labelColor=1c1d29"/>
+
+<div align="center">
+  <img width="100%" src="https://gist.githubusercontent.com/nguyenvanminh281005/circular-card.svg" alt="Grade A+" style="max-width: 150px;"/>
 </div>
 
-## 🚀 About Me
+</td>
+<td width="50%">
 
-- 👨‍🎓 **Sinh viên tại**: [UIT - Đại học Công nghệ Thông tin (VNUHCM)](https://www.uit.edu.vn/)
-- 🌍 **Sống tại**: Việt Nam
-- 🌱 **Đang học**: Python, Flask, React
-- 💬 **Ngôn ngữ**: Tiếng Việt, English
-- ⚡ **Fun fact**: Mình không ngại code, chỉ ngại bug 😅
+<h2 style="color:#ff6b95">🔥 Most Used Languages</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&theme=radical&hide_border=true&bg_color=1c1d29&title_color=ff6b95&text_color=a9fef7&icon_color=ff6b95" alt="Most Used Languages"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%">
+
+<div align="center">
+  <h1 style="color:#ff6b95">708</h1>
+  <h3 style="color:#ff6b95">Total Contributions</h3>
+  <p>Nov 4, 2020 - Present</p>
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+  <img width="100%" src="https://gist.githubusercontent.com/nguyenvanminh281005/streak-circle.svg" alt="Current Streak 0" style="max-width: 150px;"/>
+  <h3 style="color:#a9fef7">Current Streak</h3>
+  <p>Apr 11</p>
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+  <h1 style="color:#ff6b95">7</h1>
+  <h3 style="color:#ff6b95">Longest Streak</h3>
+  <p>Apr 18, 2023 - Apr 24, 2023</p>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+## 👤 About me
+
+<table>
+<tr>
+<td>
+
+- 👨‍💻 I'm a student from **UIT - VNUHCM**
+- 🌍 Living in Vietnam
+- 🌱 I'm currently learning: Python, Flask, React
+- ⚡ Fun fact: Mình không ngại code, chỉ ngại bug 😅
+
+</td>
+<td>
+
+<div align="center">
+  <a href="https://github.com/nguyenvanminh281005">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://nguyenvanminh281005.github.io">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 💻 Tech Stack
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1c1d29)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1c1d29)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1c1d29)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1c1d29)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1c1d29)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1c1d29)
 
 </div>
 
-## 📫 Liên hệ
-
 <div align="center">
-  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/nguyenvanminh281005))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenvanminh281005&style=flat-square&color=blueviolet" alt="Profile views"/>
-  
-  ### Cảm ơn vì đã ghé thăm! 👋
+  <img src="https://komarev.com/ghpvc/?username=nguyenvanminh281005&style=for-the-badge&color=ff6b95&labelColor=1c1d29" alt="Profile views"/>
 </div>
