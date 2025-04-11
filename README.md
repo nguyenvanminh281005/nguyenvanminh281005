@@ -1,17 +1,7 @@
-### 💻 Nguyen Van Minh's GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanminh281005&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanminh281005&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanminh281005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenvanminh281005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenvanminh281005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenvanminh281005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenvanminh281005&theme=tokyonight&utcOffset=7" />
+</p>
