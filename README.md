@@ -5,7 +5,7 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanminh281005&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="1">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanminh281005&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
