@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenvanminh281005&label=Profile+Views&color=0e75b6&style=flat" alt="nguyenvanminh281005" />
-</p>
-
----
-
 ### 💻 GitHub Stats
 
 <p align="center">
